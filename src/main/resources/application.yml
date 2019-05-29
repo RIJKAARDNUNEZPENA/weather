@@ -1,0 +1,8 @@
+aplicacion:
+  nombre: Weather
+   
+server:
+  port: 8080
+  
+
+      
